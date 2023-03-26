@@ -1,0 +1,161 @@
+[{
+  "ln": 1,
+  "cs": 1500,
+  "cmh" : 100,
+  "cdp" : 5,
+  "citymh": 150,
+  "citydp" : 2
+},
+{
+"ln": 2,
+"cs": 1200,
+"cmh" : 100,
+"cdp" : 5,
+"citymh": 150,
+"citydp" : 2
+},
+  {
+    "ln": 3,
+    "cs": 1000,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 4,
+    "cs": 800,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 5,
+    "cs": 750,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 6,
+    "cs": 700,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 7,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 8,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 4,
+    "citymh": 150,
+    "citydp" : 3
+  },
+  {
+    "ln": 9,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 4,
+    "citymh": 150,
+    "citydp" : 4
+  },
+  {
+    "ln": 10,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 4,
+    "citymh": 150,
+    "citydp" : 4
+  },
+  {
+    "ln": 11,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 12,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 13,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 14,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 15,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 16,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 17,
+    "cs": 550,
+    "cmh" : 100,
+    "cdp" : 5,
+    "citymh": 150,
+    "citydp" : 2
+  },
+  {
+    "ln": 18,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 4,
+    "citymh": 150,
+    "citydp" : 3
+  },
+  {
+    "ln":19,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 3,
+    "citymh": 150,
+    "citydp" : 4
+  },
+  {
+    "ln": 20,
+    "cs": 600,
+    "cmh" : 100,
+    "cdp" : 3,
+    "citymh": 150,
+    "citydp" : 4
+  }
+]
